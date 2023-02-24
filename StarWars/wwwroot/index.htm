@@ -1,0 +1,121 @@
+﻿<!doctype html>
+<html lang="en_US">
+<head>
+    <script async="" src="gtag/js?id=UA-116931857-1"></script>
+    <title>Star Wars Intro Creator</title>
+    <meta charset="utf-8">
+    <meta name="description"
+          content="Create your own Star Wars opening crawl. You type your text, replace the Star Wars logo and play it directly on the website. You can request to Download your video, check the download options, you can replace the final image with any image you want to.">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://StarWarsIntroCreator.KasselLabs.io/">
+    <meta property="og:title" content="Star Wars Intro Creator">
+    <meta property="og:site_name" content="Star Wars Intro Creator">
+    <meta property="og:description" content="Create your own Star Wars opening crawl.">
+    <meta property="og:image" content="https://StarWarsIntroCreator.KasselLabs.io/assets/preview.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:type" content="website">
+    <meta property="fb:app_id" content="966673750071792">
+    <meta name="theme-color" content="#000">
+    <style>body {
+        display: none
+    }</style>
+    <link rel="shortcut icon" href="089c0a10cc4b115961d1.png">
+    <link rel="stylesheet" href="normalize.css/latest/normalize.css">
+    <script src="ef9a26b024ca7132aa38.js"></script>
+    <script>!function (e, t, a, n, g) {
+        e[n] = e[n] || [], e[n].push({"gtm.start": (new Date).getTime(), event: "gtm.js"});
+        var m = t.getElementsByTagName(a)[0], r = t.createElement(a);
+        r.async = !0, r.src = "https://www.googletagmanager.com/gtm.js?id=GTM-KS9JHJT", m.parentNode.insertBefore(r, m)
+    }(window, document, "script", "dataLayer")</script>
+    <script defer="defer" src="808616ccb46b07602693.js"></script>
+</head>
+<body class="loading"><a style="display:none" href="./assets/preview.png"></a>
+<div id="configForm">
+    <form><h1 class="pageTitle">Star waRS<br>intro CreatoR</h1>
+        <div class="help-text">Fill the fields below and click Play to see your customized Star Wars opening!</div>
+        <textarea id="f-intro" rows="2" maxlength="100" autofocus=""></textarea> <textarea id="f-logo" rows="2" maxlength="100"></textarea> <input id="f-episode" value="" maxlength="100"> <input
+                id="f-title" value="" maxlength="100"> <textarea id="f-text" maxlength="3000"></textarea>
+        <div class="center-checkbox"><input class="regular-checkbox" type="checkbox" id="f-center"> <label for="f-center"></label> <label for="f-center" id="flabel">Center text</label></div>
+        <button id="playButton" type="submit">play</button>
+</div>
+<audio id="themeAudio" preload="auto">
+    <source src="star-wars/tfa.ogg" type="audio/ogg">
+    <source src="star-wars/tfa.mp3" type="audio/mpeg">
+</audio>
+<div id="requestInteractionButton">
+    <div>Click to Play</div>
+</div>
+<div id="bb8-loading" class="verticalWrapper">
+    <div class="inner">
+        <div class="bb8">
+            <div class="bb8-top">
+                <div class="bb8-antena"></div>
+                <div class="bb8-antena-2"></div>
+                <div class="bb8-head">
+                    <div class="orange-stripe"></div>
+                    <div class="hat"></div>
+                    <div class="eye"></div>
+                    <div class="eye-large"></div>
+                </div>
+            </div>
+            <div class="bb8-body">
+                <div class="panel-1"></div>
+                <div class="panel-2">
+                    <div class="inset-1"></div>
+                    <div class="inset-2"></div>
+                </div>
+                <div class="panel-3">
+                    <div class="inset-1"></div>
+                    <div class="inset-2"></div>
+                </div>
+                <div class="panel-4">
+                    <div class="inset-1"></div>
+                    <div class="inset-2"></div>
+                </div>
+                <div class="panel-5">
+                    <div class="inset-1"></div>
+                    <div class="inset-2"></div>
+                    <div class="plating"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="animationContainer">
+    <article class="starwarsAnimation">
+        <div id="backgroundSpace"><img id="deathstar" src="star-wars/deathstar.png" alt="Star Wars famous Death Star"></div>
+        <div class="animation">
+            <div class="introBackground">
+                <div id="intro" class="intro noselect notranslate"></div>
+            </div>
+            <div class="verticalWrapper">
+                <div id="logo" class="noselect"><img id="logoDefault" class="logoSub" src="7c5d6e394048c4ebb66f.svg" alt="Star Wars Logo">
+                    <div class="logoSub logoText">
+                        <div class="notranslate">STaR</div>
+                        <div class="notranslate">waRS</div>
+                    </div>
+                </div>
+            </div>
+            <div class="center-titles">
+                <div id="titles" class="noselect">
+                    <div><p id="episode" class="tcenter notranslate"></p>
+                        <p id="title" class="tcenter notranslate"></p>
+                        <div id="text" class="notranslate"></div>
+                    </div>
+                </div>
+            </div>
+    </article>
+</div>
+<div id="downloadPage"><h1 class="pageTitle">Star waRS<br>intro CreatoR</h1>
+    <div class="panel">
+        <button id="closeButton" aria-label="Close button">x</button>
+        <div id="reactDownloadPage"></div>
+    </div>
+</div>
+<div id="downloadButton" style="visibility: hidden;">download</div>
+
+<script src="32df76c39f6519fa1bfb.js"></script>
+<div id="fb-root"></div>
+<script async="" defer="defer" crossorigin="anonymous" src="en_US/sdk.js#xfbml=1&version=v10.0&appId=4079763512114809&autoLogAppEvents=1" nonce="tkGlsfVv"></script>
+</body>
+</html>

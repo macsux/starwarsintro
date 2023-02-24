@@ -1,0 +1,64 @@
+Uri: https://connect.facebook.net/en_US/sdk.js
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\en_US\sdk.js
+Content Type: application/x-javascript
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fstarwarsintrocreator.kassellabs.io%252F%26src%3Dsdkpreparse&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_US&_rdr
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://necolas.github.io/normalize.css/latest/normalize.css
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\normalize.css\latest\normalize.css
+Content Type: text/css
+
+Uri: https://starwarsintrocreator.kassellabs.io/
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\index.htm
+Content Type: text/html
+
+Uri: https://starwarsintrocreator.kassellabs.io/089c0a10cc4b115961d1.png
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\089c0a10cc4b115961d1.png
+Content Type: image/png
+
+Uri: https://starwarsintrocreator.kassellabs.io/22dd55192e7adb3fafee.jpg
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\22dd55192e7adb3fafee.jpg
+Content Type: image/jpeg
+
+Uri: https://starwarsintrocreator.kassellabs.io/628a34c3e1c522313656.png
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\628a34c3e1c522313656.png
+Content Type: image/png
+
+Uri: https://starwarsintrocreator.kassellabs.io/7c5d6e394048c4ebb66f.svg
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\7c5d6e394048c4ebb66f.svg
+Content Type: image/svg+xml
+
+Uri: https://starwarsintrocreator.kassellabs.io/7f4eec67a0e3ec10a3ea.jpg
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\7f4eec67a0e3ec10a3ea.jpg
+Content Type: image/jpeg
+
+Uri: https://starwarsintrocreator.kassellabs.io/808616ccb46b07602693.js
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\808616ccb46b07602693.js
+Content Type: application/javascript
+
+Uri: https://starwarsintrocreator.kassellabs.io/d7c73aa356bd6b1fc17c.jpg
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\d7c73aa356bd6b1fc17c.jpg
+Content Type: image/jpeg
+
+Uri: https://starwarsintrocreator.kassellabs.io/db5c45923e96438f2ab6.jpg
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\db5c45923e96438f2ab6.jpg
+Content Type: image/jpeg
+
+Uri: https://storage.kassellabs.io/star-wars/deathstar.png
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\star-wars\deathstar.png
+Content Type: image/png
+
+Uri: https://storage.kassellabs.io/star-wars/tfa.mp3
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\star-wars\tfa.mp3
+Content Type: audio/mp3
+
+Uri: https://storage.kassellabs.io/star-wars/tfa.ogg
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\star-wars\tfa.ogg
+Content Type: audio/ogg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-116931857-1
+File Name: C:\temp\sw2\starwarsintrocreator.kassellabs.io\gtag\js
+Content Type: application/javascript
+
